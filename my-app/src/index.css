@@ -1,0 +1,11 @@
+
+
+@font-face {
+    font-family: example;
+    src: url("fonts/Profilfont-Regular-Web.woff")
+}
+
+@font-face {
+    font-family: example2;
+    src: url("fonts/Profilfont-Regular-Web.woff2")
+}
